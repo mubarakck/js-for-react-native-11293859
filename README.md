@@ -7,6 +7,7 @@ The return line of the function calls the map method on the input array arr and 
 
 
 //explanation of task 2
+
  A function called formatArrayStrings takes two arrays as arguments
 An array of strings and numbers processed by 
 processArray.The function modifies each string 
@@ -15,6 +16,7 @@ entire string if the number is even and converting
 the string to lowercase if the number is odd.
 
 //expanation of task 3
+
 the function createUserProfiles is created and 
 takes an array of names and the array of modified
  names from Task 2. Alsoit returns an array of
